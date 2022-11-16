@@ -22,3 +22,4 @@ char **arrdup(char **arr)
 		dup[len] = _strdup(arr[len]);
 	return (dup);
 }
+
